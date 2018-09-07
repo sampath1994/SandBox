@@ -2,4 +2,8 @@ Hello there
 
 Edit 1
 
+
 Edit 3 from local
+
+Edit 2 from GitHub
+
