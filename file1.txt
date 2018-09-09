@@ -7,3 +7,4 @@ Edit 3 from local
 
 Edit 2 from GitHub
 
+Edit 6 checking fetch
